@@ -1,0 +1,44 @@
+img.post {
+    padding: 3px;
+    border: 5px solid rgb(70,80,90); /* slate grey */
+    margin: 10px;
+}
+
+@media (min-width: 768px) {
+  .post img.align-right {
+    float: right;
+  }
+  .post img.align-left {
+    float: left;
+  }
+}
+
+.navtitle {
+    font-size: 45px;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.navpage {
+    font-size: 20px;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 250;
+    color: white;
+}
+
+.intro-header {
+    background-color: #808080;
+    background: no-repeat center center;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-bottom: 10px;
+}
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading {
+    padding: 20px 0 20px;
+}
