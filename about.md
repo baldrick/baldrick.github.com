@@ -3,6 +3,7 @@ layout: page
 title: About Me
 tagline: A simple bio for a simple chap
 group: navigation
+header-img: "images/Matrix.jpg"
 ---
 {% include JB/setup %}
 
@@ -74,7 +75,7 @@ Umm.  No, I didn't.  It's changed beyond all recognition.  Almost all of it in a
 ## Sport
 Obviously I like motorsport (see petrolhead).  I watch F1 on the telly because ... well, that's what's on.  I'd love to see more coverage of BTCC or rallying (those guys are insane).  It's a shame MotoGP moved off free TV as that was bonkers too.  Where's rallycross gone too ... anyone remember Will Gollop?
 
-I love a good run around a squash court too.  Pretty much always up for a game. 
+I love a good run around a squash court too.  Pretty much always up for a game.
 
 # Dislikes
 
