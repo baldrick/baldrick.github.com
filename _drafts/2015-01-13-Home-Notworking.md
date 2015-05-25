@@ -6,8 +6,6 @@ tags : [nas, network]
 ---
 {% include JB/setup %}
 
-**this is unfinished work, I'm publishing it so I can see how it renders ... will eventually install jekyll locally ;-)**
-
 # My network
 
 I won't go into the why's & wherefore's but my home network isn't the usual internet + computer.
@@ -16,12 +14,11 @@ It's grown from a single 5-port 10Mbps router (for a couple of computers) to a s
 
 A couple of months ago I upgraded to fibre internet.  Wallop!  Up from around 5-6Mbps to 74Mbps.  Sweeeeeet.
 
-But recently I'd noticed it had got sluggish.  [Speedtest](http://www.speedtest.net/) was reporting single digit Mbps.  Regularly. Damn.
+But recently I'd noticed it had got sluggish.  [Speedtest](http://www.speedtest.net/) was reporting single digit Mbps.  Regularly.  Damn.
+
 I reckon I was the first in the street to get it so perhaps there's some contention now ... but surely not *that* much!?
 
-But that wouldn't explain why my NAS exhibits such poor performance.  Piss poor in fact.
-We're talking Kb/s range rather than Mb/s I'd expected.
-Some experimentation's required.  Damn, this is going to take a while.
+But that wouldn't explain why my NAS exhibits such poor performance.  Piss poor in fact.  We're talking Kb/s range rather than Mb/s I'd expected.  Some experimentation's required.  This is going to take a while.
 
 At this point I'll outline my setup as it was:
 
@@ -42,7 +39,7 @@ I knocked up:
 
 * A little spreadsheet for recording performance
 * A folder with some big files (audio + photos) - just over a gig-and-a-half's worth
-  * I didn't bother with zillions of small files as that's not representative of the sort of traffic I deal with
+  * I didn't bother with zillions of small files as that's not representative of the sort of traffic I deal with (or care about optimizing anyway)
 
 Then I started the tedious process of moving the NAS so I can find which section of the network is poorly.
 
