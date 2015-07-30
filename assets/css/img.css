@@ -4,6 +4,11 @@ img.frameit {
     margin: 10px;
 }
 
+img.invisiframe {
+    padding: 3px;
+    margin: 10px;
+}
+
 @media (min-width: 768px) {
   .post img.align-right {
     float: right;
