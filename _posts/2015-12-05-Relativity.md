@@ -4,7 +4,7 @@ title: "The Relativistic Gym"
 description: ""
 category: 
 tags: []
-header-img: "images/Relativity.png"
+header-img: "images/Relativity.jpg"
 ---
 {% include JB/setup %}
 
