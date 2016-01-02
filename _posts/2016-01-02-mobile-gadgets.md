@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "Mobile gadgets"
-description: ""
-category:
+description: "It's drafty round here..."
+category: Tech
 tags: [mobile phone]
+header-img: "images/phone.jpg"
 ---
 {% include JB/setup %}
+
+Another post that's been languishing in the drafts folder throughout 2015...  Tidied up a bit a whacked out!
 
 # Choices, choices...
 
@@ -32,7 +35,7 @@ Internet reviews.  Blogs.  *Trusted* sites.  I'll search out and read the lot.
 
 I've no idea if this is an attributable quote.  If not, I claim ownership :-)  I've rarely regretted ponying up for a high quality item as they tend to last, they're more satisfying in use, and are often more fixable.
 
-Technology can be a frustrating exception to this as the pace of change is such that buying not-quite-top-end but slightly more often can be a better bet than the Rolls Royce option.
+Technology can be a frustrating exception to this as the pace of change is such that buying not-quite-top-end, but slightly more often, can be a better bet than the Rolls Royce option.
 
 [YMMV](http://www.urbandictionary.com/define.php?term=ymmv)
 
@@ -70,9 +73,4 @@ Almost too large (the compromise I accepted), enough storage and fast.  A revela
 
 I really rather like the what-seemed-like-a-gadget wireless charging (which is a bit of luck as the only serious disadvantage of this phone is its weedy battery - it only just gets me through a day of moderate use).  
 
-
 #happy
-
-# Laptop
-
-... will be the subject of another post.
