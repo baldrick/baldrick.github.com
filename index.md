@@ -4,7 +4,6 @@ title: Tortured Tech
 tagline: I fought the tech...
 header-img: "images/Matrix.jpg"
 ---
-{% include JB/setup %}
 
 ## My Posts
 

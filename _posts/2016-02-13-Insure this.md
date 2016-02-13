@@ -6,7 +6,6 @@ category: Rant
 tags: []
 header-img: "images/Churchill.jpg"
 ---
-{% include JB/setup %}
 
 [Brake lights](/Rant/2016/01/30/Brake lights) set me off.  A letter I received recently kept me going.  I hope you enjoy this rant as much as I did :smile:
 
