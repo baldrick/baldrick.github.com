@@ -19,7 +19,6 @@ site.JB_BASE_PATH: {{ site.JB_BASE_PATH }}
 
 site.JB.ASSET_PATH: {{ site.JB.ASSET_PATH }}
 
-
 page.theme.name: {{ page.theme.name }}
 
 <ul class="posts">
