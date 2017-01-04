@@ -8,7 +8,7 @@ header-img: "images/junk.jpg"
 ---
 {% include JB/setup %}
 
-<img src="/images/reindeer.jpg">
+<img src="/images/reindeer.jpg" width="400px">
 
 # Construction
 
@@ -29,7 +29,7 @@ But before I can make any of the above I need some components that don't grow on
 
 I've already got one working motor from a pump I disassembled a couple of months ago.  It should be strong enough for the lathe even though it runs a bit too fast ... I'm hoping I'll be able to fix that with some appropriately sized pulleys.  I also nabbed a couple of other motors from a dishwasher destined for the knacker's yard although I doubt they'll be suitable for much woodwork wise.  Maybe the strip sander.
 
-<img src="/images/laser-printer-rods.jpg">
+<img src="/images/laser-printer-rods.jpg" width="400px">
 
 But metal rods are in short supply.  At least they were until I dismantled my [old laser printer](/gadget/2015/07/07/Printer).  Once I've finished dismantling the toner cartridges (one down, three to go; lots of care required as although [laser toner isn't dangerous](http://ask.metafilter.com/37643/Is-laser-printer-toner-dangerous) per se, it does get _everywhere_) I'll have 30 rods of various thicknesses (I reckon the range is 3mm - 10mm or so with most hitting about 6mm) and lengths (mostly a bit bigger than a sheet of A4, unsurprisingly).  Four of them will be magnetic too (thanks to the toner cartridges) ... no idea whether that'll be useful mind.
 
