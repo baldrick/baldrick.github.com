@@ -8,7 +8,7 @@ header-img: "images/phone.jpg"
 ---
 {% include JB/setup %}
 
-Another post that's been languishing in the drafts folder throughout 2015...  Tidied up a bit a whacked out!
+Another post that's been languishing in the drafts folder throughout 2015...  Tidied up a bit and whacked out!
 
 # Choices, choices...
 
