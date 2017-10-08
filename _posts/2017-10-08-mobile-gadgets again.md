@@ -10,7 +10,7 @@ header-img: "images/phone.jpg"
 
 <img src='/images/Nexus5.jpg'>
 
-Annoyingly my Nexus 5 (see [Mobile gadgets](/Tech/2016/01/02/mobile-gadgets)) has developed a habit of rebooting without being asked.  Repeatedly.  It's taken a few knocks over the two and a half years or so I've had it but it's still a touch disappointing.  I suppose it's an excuse for a new gadget ... but I'd rather they last a bit longer!
+Annoyingly my Nexus 5 (see [Mobile gadgets](/tech/2016/01/02/mobile-gadgets)) has developed a habit of rebooting without being asked.  Repeatedly.  It's taken a few knocks over the two and a half years or so I've had it but it's still a touch disappointing.  I suppose it's an excuse for a new gadget ... but I'd rather they last a bit longer!
 
 # More choices, choices...
 
