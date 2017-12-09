@@ -3,7 +3,7 @@ layout: post
 title: "Destruction leads to Construction"
 description: "Useful stuff from junk"
 category: Learning
-tags: [books]
+tags: [shed]
 header-img: "images/junk.jpg"
 ---
 {% include JB/setup %}
