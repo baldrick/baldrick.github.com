@@ -32,17 +32,17 @@ My wife pointed out one evening the gas usage looked ... well, _wrong_.  Actuall
 
 I guess it's better illustrated with pictures:
 
-<img src="images/Gas Tuesday.png">
+<img src="/images/Gas Tuesday.png">
 
 One day's gas usage.  Weird because 26p is the daily fixed charge.  So we used _no_ gas?  Hmm.
 
-<img src="images/Gas Today.png">
+<img src="/images/Gas Today.png">
 
 _Today_'s gas usage.  It's the same day.  Forty odd quid in a single day.  I don't think so.
 
-<img src="images/Gas Daily.png">
+<img src="/images/Gas Daily.png">
 
-\#wtf that's an order of magnitude more than the already silly amount from the previous screen.
+\#wtf - that's an order of magnitude more than the already silly amount from the previous screen.
 
 # Next Steps
 
