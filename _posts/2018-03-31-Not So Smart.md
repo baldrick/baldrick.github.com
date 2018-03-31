@@ -4,7 +4,7 @@ title: "Not So Smart Meter"
 description: ""
 category: Tech
 tags: [annoyance]
-header-img: "images/Gas Flame.jpg"
+header-img: "/images/Gas Flame.jpg"
 ---
 {% include JB/setup %}
 
