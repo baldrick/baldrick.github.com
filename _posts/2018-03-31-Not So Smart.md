@@ -46,7 +46,7 @@ _Today_'s gas usage.  It's the same day.  Forty odd quid in a single day.  I don
 
 # Next Steps
 
-I try to smell gas, perhaps there's a leak.  Nope.  Unless my nose is right _next_ to the meter.  So I don't think that's a problem.  We turn off the heating anyway.  Gas usage doesn't move from one hour to the next.  The reading on the smart meter inside appears to match the (unmoving) reading on the outside meter.
+I see if I can smell gas, perhaps there's a leak.  Nope.  Unless my nose is right _next_ to the external meter.  So I don't think that's a problem.  We turn off the heating anyway.  Gas usage doesn't move from one hour to the next.  The reading on the smart meter inside appears to match the (unmoving) reading on the outside meter.  Although I can't see where the decimal point is.  Where _are_ my glasses?!
 
 It's gone 8pm so I bash off an email to British Gas customer services.  I'm not hopeful of a response.
 
