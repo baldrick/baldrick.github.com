@@ -65,3 +65,9 @@ Fortunately my wife's taking over child rearing duties for the rest of the week 
 * Why hasn't it been sorted out already ... _months_ is a ludicrous timescale to put up with such wrongness
 
 Smart meter my arse.
+
+# Update 3rd April
+
+After [some tweeting to @BritishGas](https://twitter.com/BritishGasHelp/status/980125958807216128) they recommended I turn the smart meter off for 24 hours then switch back on as it'd then check for updates.  Somewhat sceptical I did it anyway.  Sceptics rejoice ... yeah, that didn't fix the problem:
+
+<img src="/images/Gas After Reboot.png">
