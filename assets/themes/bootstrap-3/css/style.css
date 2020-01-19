@@ -21,7 +21,41 @@ h1, h2, h3, h4 {
   background-color: #fdcd60;
 }
 
+th {
+  border-bottom: 3px groove black;
+  background-color: powderblue;
+}
 
+th.book {
+  width: 130px;
+}
+
+th.author {
+  width: 120px;
+}
+
+th.cost {
+  width: 120px;
+}
+
+th.time {
+  width: 100px;
+}
+
+td {
+  border-bottom: 1px solid black;
+}
+
+.star-rating{
+  font-size: 0;
+}
+
+.star-rating__ico{
+  float: right;
+  padding-left: 2px;
+  cursor: pointer;
+  color: #FFB300;
+}
 
 /* posts index */
 .post > h3.title {
