@@ -10,7 +10,7 @@ header-img: "images/PowerOn.jpg"
 
 <img src="/images/PCCorner.jpg" align="right" class="invisiframe" width="400px">
 
-Last year I wrote about building a PC for Project Cars ... which is very good.  Although I found it harder to initially get to grips with than Forza 6 I think it does feel more realistic ... but some of the spins are just impossible to catch, for which I'll happily blame the game.  Couldn't possibly be me.  Well, ok, it could but I _do_ think it's slightly too eager to spin you round.
+Last year I wrote about <a href="/gadget/2015/05/25/GamingPC">building a PC for Project Cars</a> ... which is very good.  Although I found it harder to initially get to grips with than Forza 6 I think it does feel more realistic ... but some of the spins are just impossible to catch, for which I'll happily blame the game.  Couldn't possibly be me.  Well, ok, it could but I _do_ think it's slightly too eager to spin you round.
 
 I finished the case a couple of months after blogging but hadn't *completely* finished the project.  And I still haven't.  But at least I've finally hooked up the reset switch.  Hurrah!
 
