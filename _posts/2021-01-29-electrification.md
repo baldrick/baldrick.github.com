@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Game changer"
-description: "I thought my remote control car was quick..."
+title: "Electrohead?"
+description: "Never mind the lightning, feel the (lack of) latency"
 category: Cars
 tags: []
 header-img: "images/Tesla.png"
@@ -65,7 +65,7 @@ To associate the car with your account in the app there are some simple instruct
 
 Theoretically trivial but, having followed the instructions, I repeatedly got connection problems on multiple occasions over multiple days.  The internet agrees: lots of people have had the same problem.
 
-Fortunately it's relative simple to fix: email Tesla service with proof of ownership and they'll do the rest.  It took a few days but ... job done.
+Fortunately it's relatively simple to fix: email Tesla service with proof of ownership and they'll do the rest.  It took a few days but ... job done.
 
 <img src="/images/tesla/tesla-mobile-service.jpg" height="150px">
 
@@ -79,9 +79,9 @@ I responded to Tesla's SMS thinking _this won't work_ :roll_eyes:  Well blow me 
 
 <img src="/images/tesla/qc.jpg" height="150px">
 
-Tesla gets a lot of stick for its (lack of) quality control.
+Tesla gets a lot of stick for its (lack of) quality control<sup><a href="#fn-frunklatch" id="ref-frunklatch">4</a></sup>.
 
-They should _also_ get some stick about the reliability of their app but from this very limited experience the service has been somewhat better than I've seen from previous car dealers (I'm looking at you BMW, TVR, VW)<sup><a href="#fn-jagservice" id="ref-jagservice">4</a></sup>...
+They should _also_ get some stick about the reliability of their app but from this very limited experience the service has been somewhat better than I've seen from previous car dealers (I'm looking at you BMW, TVR, VW)<sup><a href="#fn-jagservice" id="ref-jagservice">5</a></sup>...
 
 The app could do with some [SRE](https://sre.google/) love!  Especially after <a href="https://www.bbc.co.uk/news/technology-59357306">this</a>!
 
@@ -99,11 +99,11 @@ But one which will _stop and start_ the car is less common (unique?).
 
 <img src="/images/tesla/self-driving.jpg" height="150px">
 
-For the majority of my life I thought self-driving cars were purely in the realm of science fiction.  Now they're not.  Well, not _quite_.
+For the majority of my life I thought self-driving cars were purely in the realm of science fiction.  Now they're not.  Well, not _quite_.  Maybe.
 
 I've played with it a bit but you have to keep your hands on the wheel, or rub it in just the right place every few seconds, so although it does work well enough on dual carriageways, etc. I don't think I'll use it that often.  Maybe for traffic jams.
 
-I certainly won't use it for local roads<sup><a href="#fn-autopilot" id="ref-autopilot">5</a></sup> ... though to be fair the Tesla service chap said they only recommend using autopilot on roads with a central reservation.  I've not used it much so take this with a pinch of sale but I've had a couple of instances of _phantom braking_ and the collision detection warning is a tad over-sensitive.  Let's see how much use it gets after some longer trips!
+I certainly won't use it for local roads<sup><a href="#fn-autopilot" id="ref-autopilot">6</a></sup> ... though to be fair the Tesla service chap said they only recommend using autopilot on roads with a central reservation.  I've not used it much so take this with a pinch of salt but I've had a couple of instances of _phantom braking_ and the collision detection warning is a tad over-sensitive.  Let's see how much use it gets after some longer trips!
 
 <img src="/images/tesla/accio.jpg" height="150px">
 <img src="/images/tesla/bond-remotedrive.jpg" height="150px">
@@ -120,15 +120,19 @@ A bugbear of mine is people with [permabrake lights](/Rant/2016/01/30/Brake ligh
 
 The Tesla doesn't have a traditional _handbrake_ as such.  There's a _parking_ brake but that's really meant for when you've finished your journey - the interior lights come on when it's engaged.
 
-There's also a _hold_ brake - push on the brake pedal when at a standstill and it engages.  Fantastically convenient but <b>it keeps the brake lights on</b>.  _For the love of God_ <b>WHY</b><sup><a href="#fn-brakelights" id="ref-brakelights">6</a></sup>?
+There's also a _hold_ brake - push on the brake pedal when at a standstill and it engages.  Fantastically convenient but <b>it keeps the brake lights on</b>.  _For the love of God_ <b>WHY</b><sup><a href="#fn-brakelights" id="ref-brakelights">7</a></sup>?
 
 _At least_ make it an option to not have brake lights on please Your Muskness!  Lights = I'm here.  Brake lights = I'm slowing down.  _Fog_ lights = I'M HERE.
 
 <img src="/images/tesla/efficiency.jpg" height="150px">
 
-We're yet to do a properly long journey but I suspect I'll need to stop more often than you'll read about.  The _rated_ range for the battery is 370 miles.  Ignore it _completely_.  The guess-o-meter range is more like 280 miles - it guesses, sorry estimates, based on the last 30 miles<sup><a href="#fn-trips" id="ref-trips">7</a></sup> usage.
+The longest journey we've done was about 165 miles so I topped the battery off to 100% a couple of days before we set off.  The _rated_ range for the battery is 370 miles.  Ignore it _completely_.  The guess-o-meter range is more like 295 miles - I think it guesses, sorry estimates, based on the last 30 miles<sup><a href="#fn-trips" id="ref-trips">8</a></sup> usage.
 
-Now I'm not saying I wear lead boots but I have been accused of having a heavy right foot so that may go some way to explaining the lack of range _I_ get.  And that it's been cold since I've had it and it's mostly driven at night (lights take power too!) ... I suppose as long as I get 200 miles out of it - by which I mean 200 miles from fully charged down to 20% left ready for (super)charging goodness - I'll be happy enough.
+My thinking before getting the car went along these lines...  I'm not saying I wear lead boots but I have occasionally been accused of _exploring the edges of a cars' performance_ so that may go some way to explaining the lack of range _I_ get.  And that it's been cold since I've had it and it's mostly driven at night (lights take power too!) ... I suppose as long as I get 200 miles out of it - by which I mean 200 miles from fully charged down to 20% left ready for (super)charging goodness - I'll be happy enough.
+
+Aftr our ~165 mostly-motorway mile journey we had about 90 miles of guess-o-meter range.  Which from our calculations meant about 50-60 miles.  But you don't really want to drain the battery to 0%.  In fact _really_ don't do this.  Apparently it may require a new battery pack!  So perhaps a comfortable 30 miles left.
+
+The real test will be a ~270 mile journey for the summer holiday.  One or two superchargers, sir?
 
 <img src="/images/tesla/range.jpg" height="150px">
 <img src="/images/tesla/anxiety.jpg" height="150px">
@@ -137,18 +141,19 @@ However, _Elon_, that doesn't mean _no-one needs 500 miles of range_.
 
 More range = more options
 
-I like options.  Like the option to use the _ludicrous_ acceleration whenever I want rather than having to consider range.  That's one thing my ICE cars had over the Tesla - I _virtually never_ thought about range when considering whether a bootful of _go_ pedal was appropriate<sup><a href="#fn-bootful" id="ref-bootful">8</a></sup>.
+I like options.  Like the option to use the _ludicrous_ acceleration whenever I want rather than having to consider range.  That's one thing my ICE cars had over the Tesla - I _virtually never_ thought about range when considering whether a bootful of _go_ pedal was appropriate<sup><a href="#fn-bootful" id="ref-bootful">9</a></sup>.
 
 <img src="/images/tesla/plaid.jpg" height="100px">
 
-Ah, I can't help but think of the _next car_ even now.  A _Plaid_ is what a lunatic would have<sup><a href="#fn-plaid" id="ref-plaid">9</a></sup>.  So I'll have one of those ... but can I have it without the silly yoke and with proper control stalks please?  Oh and cut the price somewhat.  Pretty please?
+Ah, I can't help but think of the _next car_ even now.  A _Plaid_ is what a lunatic would have<sup><a href="#fn-plaid" id="ref-plaid">10</a></sup>.  So I'll have one of those ... but can I have it without the silly yoke and with proper control stalks (from the factory not as an aftermarket fix) please?  Oh and cut the price somewhat.  Pretty please?
 
 <sup id="fn-jagcs">1. It's a subtle whine, certainly more so than my old Impreza's turbo.<a href="#ref-jagsc" title="Jump back to the text.">↩</a></sup>
 <br><sup id="fn-jagtyres">2. The Jag's TC was always more playful than the M5's but an early swap to Michelin Pilot Sport 4S tyres helped tremendously: the OEM Dunlop's just didn't cut the mustard.<a href="#ref-jagtyres" title="Jump back to the text.">↩</a></sup>
 <br><sup id="fn-teslatyres">3. When the tread eventually wears, I reckon I'll replace them with Michelin Pilot Sport 4S as I've always had good results with them.<a href="#ref-teslatyres" title="Jump back to the text.">↩</a></sup>
-<br><sup id="fn-jagservice">4. To be fair the experience with Jaguar was mostly reasonable: _free_ pick up and drop off service for the car meant servicing was pretty easy.  Getting hold of servicing in the first place was _much_ harder.  And mistakes weren't uncommon...<a href="#ref-jagservice" title="Jump back to the text.">↩</a></sup>
-<br><sup id="fn-autopilot">5. There's a bend near me with a tree at the apex.  I'm pretty sure the car would've driven straight into it had I not intervened :wink:<a href="#ref-autopilot" title="Jump back to the text.">↩</a></sup>
-<br><sup id="fn-brakelights">6. Don't say safety.  Sitting with handbrake on in a traditional car, with rear lights on if it's dark, is plenty visible enough.  We don't need to be blinded by _everyone's_ brake lights.  If you insist on saying you want it to be more visible consider what it'd be like if everyone had fog lights and main beam on at all times...<a href="#ref-brakelights" title="Jump back to the text.">↩</a></sup>
-<br><sup id="fn-trips">7. This is configurable, IIRC you can choose the last 5, 10 or 30 miles.<a href="#ref-trips" title="Jump back to the text.">↩</a></sup>
-<br><sup id="fn-bootful">8. And it was _almost always_ appropriate :grin:<a href="#ref-bootful" title="Jump back to the text.">↩</a></sup>
-<br><sup id="fn-plaid">9. 0-<b>120</b> in _six_ seconds.  Oh wow, I want one.  I'll _never_ use that performance but I _want_ it.  500 miles of _real_ range would be nice too, which I guess means about 1,000 miles _rated_ :roll_eyes:<a href="#ref-plaid" title="Jump back to the text.">↩</a></sup>
+<br><sup id="fn-frunklatch">4. e.g. I've recently been told my car may have the frunk latch problem that's the subject of a recall.  No home visit offered for that ... super-inconvenient!<a href="#ref-frunklatch" title="Jump back to the text.">↩</a></sup>
+<br><sup id="fn-jagservice">5. To be fair the experience with Jaguar was mostly reasonable: _free_ pick up and drop off service for the car meant servicing was pretty easy.  Getting hold of servicing in the first place was _much_ harder.  And mistakes weren't uncommon...<a href="#ref-jagservice" title="Jump back to the text.">↩</a></sup>
+<br><sup id="fn-autopilot">6. There's a bend near me with a tree at the apex.  I'm pretty sure the car would've driven straight into it had I not intervened :wink:<a href="#ref-autopilot" title="Jump back to the text.">↩</a></sup>
+<br><sup id="fn-brakelights">7. Don't say safety.  Sitting with handbrake on in a traditional car, with rear lights on if it's dark, is plenty visible enough.  We don't need to be blinded by _everyone's_ brake lights.  If you insist on saying you want it to be more visible consider what it'd be like if everyone had fog lights and main beam on at all times...<a href="#ref-brakelights" title="Jump back to the text.">↩</a></sup>
+<br><sup id="fn-trips">8. This is configurable, IIRC you can choose the last 5, 10 or 30 miles.<a href="#ref-trips" title="Jump back to the text.">↩</a></sup>
+<br><sup id="fn-bootful">9. And it was _almost always_ appropriate :grin:<a href="#ref-bootful" title="Jump back to the text.">↩</a></sup>
+<br><sup id="fn-plaid">10. 0-<b>120</b> in _six_ seconds.  Oh wow, I want one.  I'll _never_ use that performance but I _want_ it.  500 miles of _real_ range would be nice too, which I guess means about 1,000 miles _rated_ :roll_eyes:<a href="#ref-plaid" title="Jump back to the text.">↩</a></sup>
